@@ -1,0 +1,15 @@
+body {
+  font-size: 10px
+}
+
+body {
+  #root {
+    color: red;
+  }
+}
+
+#root {
+  .test {
+    color: yellow;
+  }
+}
