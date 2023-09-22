@@ -1,3 +1,7 @@
+#### Description
+A simple react starter project with webpack 5 and react 18 with css module support.
+
+
 #### Frameworks/Libraries
 
 * webpack5
